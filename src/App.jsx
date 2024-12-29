@@ -11,7 +11,7 @@ function App() {
       <h1>
         Thank You for visiting ❤️
       </h1>
-      <h3>FeeloChat is Coming Soon!!</h3>
+      <h3>Get ready—FeeloChat is coming soon!</h3>
         
     </>
   )
